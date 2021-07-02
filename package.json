@@ -1,0 +1,41 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "npm run clear && parcel build index.html",
+    "fix-parcel": "npx npm-force-resolutions && npm i && npm i",
+    "lint": "eslint src/**/*.js",
+    "format": "prettier --write src/**/*.js",
+    "format:lint": "npm run format && npm run lint",
+    "clear": "rimraf dist .parcel-cache"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "babel-eslint": "^10.1.0",
+    "babel-preset-nano-react-app": "^0.1.0",
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.24.0",
+    "parcel": "1.12.4",
+    "prettier": "^2.3.2",
+    "rimraf": "^3.0.2"
+  },
+  "babel": {
+    "presets": [
+      "nano-react-app"
+    ]
+  }
+}
