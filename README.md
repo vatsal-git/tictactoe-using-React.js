@@ -1,6 +1,6 @@
 <h2 align="center">👋Hello! I am Vatsal Patel</h2><br /><br />
 
-<h2>TIC-TAC-TOE gmae using basic React.js</h2><br /><br />
+<h2>TIC-TAC-TOE game using basic React.js</h2><br /><br />
 
 
 <h3>Preview:-</h3><br />
@@ -8,3 +8,10 @@
 
 <h3>Link:-</h3><br />
 http://internal-level.surge.sh/<br /><br />
+
+<h3>Language and suppoters used:-</h3><br />
+<ul>
+  <li>React Lib. JS</li>
+  <li> HTML </li>
+  <li> CSS </li>
+</ul>  
