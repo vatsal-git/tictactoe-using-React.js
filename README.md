@@ -1,4 +1,4 @@
-<h2 align="center">👋Hello! I am Vatsal Patel <br /> and I made</h2><br /><br />
+<h2 align="center">👋Hello! I am Vatsal Patel <br /><br /> and I made</h2><br /><br />
 
 <h2>TIC-TAC-TOE game using basic React.js</h2><br /><br />
 
