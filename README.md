@@ -4,7 +4,7 @@
 
 
 <h3>Preview:-</h3><br />
-<img src="https://user-images.githubusercontent.com/69387444/124557922-ad8aae00-de57-11eb-907f-87a9ad041377.png" style="border-radius:100px"  alt="preview-img"><br />
+<img src="https://user-images.githubusercontent.com/69387444/124557922-ad8aae00-de57-11eb-907f-87a9ad041377.png" border-radius=100px  alt="preview-img"><br />
 
 <h3>Link:-</h3><br />
 http://internal-level.surge.sh/<br /><br />
