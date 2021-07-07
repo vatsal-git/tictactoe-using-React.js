@@ -5,7 +5,7 @@
 
 <h3>Preview:-</h3><br />
 <img src="https://user-images.githubusercontent.com/69387444/124557922-ad8aae00-de57-11eb-907f-87a9ad041377.png" alt="preview-img"><br />
-<img src="https://user-images.githubusercontent.com/69387444/124704727-28b09a80-df12-11eb-8a56-769a4d06d783.jpg"><br />
+<img src="https://user-images.githubusercontent.com/69387444/124704727-28b09a80-df12-11eb-8a56-769a4d06d783.jpg" height="20%" width="20%"><br />
 
 
 <h3>Link:-</h3><br />
