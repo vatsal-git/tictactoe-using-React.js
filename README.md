@@ -1,7 +1,7 @@
-<h1 align="center">TIC-TAC-TOE game</h1><br /><br />
+<h1 align="center">TIC-TAC-TOE game</h1><br />
 
 <h3>Function : </h3>
-<p> A simple 2 player offline Tic-Tac-Toe game which stores game history. Player can jump to any move. </p><br /><br />
+<p> A simple 2 player offline Tic-Tac-Toe game which stores game history. Player can jump to any move. </p><br />
 
 <h3>Preview:-</h3>
 <img src="https://user-images.githubusercontent.com/69387444/124557922-ad8aae00-de57-11eb-907f-87a9ad041377.png" alt="preview-img"><br />
@@ -9,7 +9,7 @@
 
 
 <h3>Link:-</h3><br />
-https://internal-level.surge.sh/<br /><br />
+https://internal-level.surge.sh/<br />
 
 <h3>Language and suppoters used:-</h3><br />
 <ul>
@@ -17,6 +17,6 @@ https://internal-level.surge.sh/<br /><br />
   <li> HTML </li>
   <li> CSS </li>
 </ul>  
-<br /><br />
+<br />
 
 <h2>👋 Vatsal P.</h2>
