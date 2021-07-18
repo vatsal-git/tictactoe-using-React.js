@@ -1,6 +1,6 @@
-<h2 align="center">👋Hello! I am Vatsal Patel <br /><br /> and I made</h2><br /><br />
+<h2>👋Hello!<br /><br />
 
-<h2>TIC-TAC-TOE game using basic React.js</h2><br /><br />
+<h2 align="center">TIC-TAC-TOE game using basic React.js</h2><br /><br />
 
 
 <h3>Preview:-</h3><br />
