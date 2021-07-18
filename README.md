@@ -1,5 +1,3 @@
-<h2>👋</h2>
-
 <h2 align="center">TIC-TAC-TOE game using basic React.js</h2><br /><br />
 
 
