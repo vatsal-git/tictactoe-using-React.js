@@ -11,7 +11,7 @@
 <h3>Link:</h3>
 https://internal-level.surge.sh/<br />
 
-<h3>Language and suppoters used:</h3><br />
+<h3>Language and suppoters used:</h3>
 <ul>
   <li>React.js</li>
   <li> HTML </li>
