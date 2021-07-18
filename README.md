@@ -1,4 +1,4 @@
-<h2 align="center">TIC-TAC-TOE game</h2><br /><br />
+<h1 align="center">TIC-TAC-TOE game</h1><br /><br />
 
 
 <h3>Preview:-</h3><br />
