@@ -8,8 +8,7 @@
 <img src="https://user-images.githubusercontent.com/69387444/124704727-28b09a80-df12-11eb-8a56-769a4d06d783.jpg" height="30%" width="30%"><br />
 
 
-<h3>Link:</h3>
-https://internal-level.surge.sh/<br />
+<h3><a href="https://internal-level.surge.sh/">Link</a></h3><br />
 
 <h3>Language and suppoters used:</h3>
 <ul>
