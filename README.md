@@ -11,8 +11,10 @@ https://internal-level.surge.sh/<br /><br />
 
 <h3>Language and suppoters used:-</h3><br />
 <ul>
-  <li>React Lib. JS</li>
+  <li>React.js</li>
   <li> HTML </li>
   <li> CSS </li>
 </ul>  
 <br /><br />
+
+<h2>👋 Vatsal P.</h2>
