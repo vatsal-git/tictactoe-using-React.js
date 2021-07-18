@@ -1,4 +1,4 @@
-<h2>👋Hello!<br /><br />
+<h2>👋<br /><br />
 
 <h2 align="center">TIC-TAC-TOE game using basic React.js</h2><br /><br />
 
