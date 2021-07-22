@@ -16,6 +16,3 @@
   <li> HTML </li>
   <li> CSS </li>
 </ul>  
-<br />
-
-<h2>👋 Vatsal P.</h2>
